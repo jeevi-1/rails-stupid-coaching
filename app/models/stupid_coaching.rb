@@ -1,0 +1,2 @@
+class StupidCoaching < ApplicationRecord
+end
